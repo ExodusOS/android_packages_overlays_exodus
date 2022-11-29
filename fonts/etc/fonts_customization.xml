@@ -74,4 +74,33 @@
     <alias name="tahoma" to="ubuntu" />
     <alias name="verdana" to="ubuntu" />
     <!-- # Ubuntu Edit End -->
+	
+	<!-- # Exo2 Edit Start -->
+    <family customizationType="new-named-family" name="exo2">
+        <font weight="100" style="normal">Exo2-Thin.ttf</font>
+        <font weight="100" style="italic">Exo2-ThinItalic.ttf</font>
+        <font weight="300" style="normal">Exo2-Light.ttf</font>
+        <font weight="300" style="italic">Exo2-LightItalic.ttf</font>
+        <font weight="400" style="normal">Exo2-Regular.ttf</font>
+        <font weight="400" style="italic">Exo2-Italic.ttf</font>
+        <font weight="500" style="normal">Exo2-Medium.ttf</font>
+        <font weight="500" style="italic">Exo2-MediumItalic.ttf</font>
+        <font weight="900" style="normal">Exo2-Black.ttf</font>
+        <font weight="900" style="italic">Exo2-BlackItalic.ttf</font>
+        <font weight="700" style="normal">Exo2-Bold.ttf</font>
+        <font weight="700" style="italic">Exo2-BoldItalic.ttf</font>
+     </family>
+	<!-- Note that aliases must come after the fonts they reference. -->
+	<alias name="exo2-thin" to="exo2" weight="100" />
+    <alias name="exo2-light" to="exo2" weight="300" />
+    <alias name="exo2-book" to="exo2" weight="400" />
+    <alias name="exo2-regular" to="exo2" weight="400" />
+    <alias name="exo2-medium" to="exo2" weight="500" />
+    <alias name="exo2-bold" to="exo2" weight="700" />
+    <alias name="exo2-black" to="exo2" weight="900" />
+    <alias name="arial" to="exo2" />
+    <alias name="helvetica" to="exo2" />
+    <alias name="tahoma" to="exo2" />
+    <alias name="verdana" to="exo2" />
+    <!-- # Exo2 Edit End -->	
 </fonts-modification>
