@@ -68,7 +68,7 @@
     <alias name="ubuntu-regular" to="ubuntu" weight="400" />
     <alias name="ubuntu-medium" to="ubuntu" weight="500" />
     <alias name="ubuntu-bold" to="ubuntu" weight="700" />
-    <alias name="ubuntu-black" to="ubuntu" weight="900" />
+    <alias name="ubuntu-black" to="ubuntu" weight="700" />
     <alias name="arial" to="ubuntu" />
     <alias name="helvetica" to="ubuntu" />
     <alias name="tahoma" to="ubuntu" />
