@@ -21,6 +21,20 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+
+    <family customizationType="new-named-family" name="rosemary">
+        <font weight="300" style="normal">Rosemary-Regular.ttf</font>
+    </family>
+    <alias name="rosemary-semi-bold" to="rosemary" weight="600" />
+    <alias name="rosemary-bold" to="rosemary" weight="700" />
+    <alias name="times" to="rosemary" />
+    <alias name="times new roman" to="rosemary" />
+    <alias name="palatino" to="rosemary" />
+    <alias name="georgia" to="rosemary" />
+    <alias name="baskerville" to="rosemary" />
+    <alias name="goudy" to="rosemary" />
+    <alias name="fantasy" to="rosemary" />
+    <alias name="ITC Stone Serif" to="rosemary" />
 	
 	<!-- # OnePlusSans Edit Start -->
     <family customizationType="new-named-family" name="oneplus-sans">
